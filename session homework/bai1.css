@@ -1,0 +1,32 @@
+#anhbia {
+    margin: 0px 0px 0px 0px;
+    width: 850px;
+    height: 350px;
+    background: red;
+}
+.picture{
+    width: 850px;
+    height: 350px;
+    margin: 0px;
+}
+#avatar {
+    margin: -120px 0px 0px 40px;
+    width: 160px;
+    height: 160px;
+    border: 2px solid beige;
+}
+.avatar {
+    width: 160px;
+    height: 160px;
+}
+#name {
+    margin: 0px 0px 0px 40px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#mail {
+    margin: 0px 0px 0px 20px;
+}
+#mailfb {
+    margin: 0px 0px 0px 40px;
+}

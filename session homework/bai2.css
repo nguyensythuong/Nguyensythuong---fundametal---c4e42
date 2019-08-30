@@ -1,0 +1,53 @@
+#where {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#hello {
+    background: red;
+    display: inline;
+}
+#span1 {
+    background: red;
+}
+#span2 {
+    background: yellow;   
+    padding: 0px 500px 0px 0px; 
+}
+#span3 {
+    background: red;
+    display: block;
+}
+#div {
+    background: blue;
+}
+
+
+#border {
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+    border: 3px solid blue;
+    border-radius: 20px;    
+}
+#lorem {
+  background: wheat;
+  width:400px;
+  border: 2px solid green;
+  padding: 45px 40px 45px 40px;
+}
+#a >div {
+    background:wheat;
+    margin: 50px 40px 50px 60px;    
+}
+
+#a{
+    /* Không code vào đây */
+    border:1px solid black
+  }
