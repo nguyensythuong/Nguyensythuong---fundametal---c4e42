@@ -1,0 +1,49 @@
+#movies {
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+.picture {
+    width: 300px;
+    height: 400px;
+}
+#Name {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    border-bottom: solid;
+    display: flex;
+    justify-content: space-around
+}
+.content {
+    font-weight: bold;
+}
+#time {
+    outline-color: red;
+    width: 65%;
+	display: flex;
+	padding: 10px 50px;
+	flex-wrap: wrap;
+	align-content: flex-start;  
+}
+#document {
+    display: flex;
+    justify-content: space-around;
+}
+#data {
+    width: 100%;
+}
+.time {
+    font-size: 20px;
+	padding: 5px 10px;
+	border: 1px solid #b55758;
+	border-radius: 3px;
+	width: calc(25% - 20px);
+	margin: 10px;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	color: #160000;
+	cursor: pointer;
+	transition: .5s
+    border: red
+}
